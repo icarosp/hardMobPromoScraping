@@ -11,7 +11,8 @@
     "express"    : "latest",
     "request"    : "latest",
     "cheerio"    : "latest",
-    "cloudscraper": "latest"
+    "cloudscraper": "latest",
+    "mongoose" : "latest"
   },
   "engines": {
     "node": "4.1.1"
