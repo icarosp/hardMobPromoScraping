@@ -36,7 +36,8 @@ app.get('/promos', function (request, response) {
 	}
 })
 
+var port = Number(process.env.PORT || 8081);
 
-//app.listen('8081')
+app.listen(port)
 
 exports = module.exports = app;
