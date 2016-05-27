@@ -1,0 +1,13 @@
+{
+  "name"         : "hmScrapingAPI",
+  "version"      : "0.0.1",
+  "description"  : "Backend web scraping API.",
+  "main"         : "server.js",
+  "author"       : "Scotch",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest",
+    "cloudscraper": "latest"
+  }
+}
