@@ -12,5 +12,8 @@
     "request"    : "latest",
     "cheerio"    : "latest",
     "cloudscraper": "latest"
+  },
+  "engines": {
+    "node": "4.1.1"
   }
 }
