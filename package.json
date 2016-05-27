@@ -3,7 +3,10 @@
   "version"      : "0.0.1",
   "description"  : "Backend web scraping API.",
   "main"         : "server.js",
-  "author"       : "Scotch",
+  "author"       : "Icaro F. G.",
+  "scripts" :  {
+    "start":"node server.js"
+  },
   "dependencies" : {
     "express"    : "latest",
     "request"    : "latest",
